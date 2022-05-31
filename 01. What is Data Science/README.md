@@ -1,6 +1,6 @@
 # What is Data Science?
 
-## Contents
+## What I learned in this course
 
 ## Tools used
 
