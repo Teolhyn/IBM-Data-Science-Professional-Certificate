@@ -7,7 +7,7 @@
 
 2. [Tools for data science](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science) ✔️
 
-3. [Data Science Methodology](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology) ❌
+3. [Data Science Methodology](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology) ✔️
 
 4. [Python for Data Science, AI & Development](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development) ❌
 
