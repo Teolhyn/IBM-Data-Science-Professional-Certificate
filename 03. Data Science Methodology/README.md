@@ -13,4 +13,4 @@
 
 Click the image for verification.
 
-<a href="https://coursera.org/verify/ADZNEUEELNZV"><img src="https://i.gyazo.com/545b28d483134c7db9e471f1eb9ca34f.png" alt="Certificate" width="600" /></a>
+<a href="https://coursera.org/verify/4KJWLSJZ4GUZ"><img src="https://i.gyazo.com/1e115be65dafe240d859e230e17e148e.png" alt="Certificate" width="600" /></a>
