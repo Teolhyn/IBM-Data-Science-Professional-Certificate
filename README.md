@@ -23,6 +23,4 @@
 
 10. [Applied Data Science Capstone](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone) ❌
 
-## Tools used
-
 ## Certificate
