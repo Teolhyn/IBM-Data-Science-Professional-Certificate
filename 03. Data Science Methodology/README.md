@@ -7,8 +7,6 @@
 * Determine an appropriate analytic model including predictive, descriptive, and classification models to analyze a case study. 
 * Decide on  appropriate sources of data for your data science project. 
 
-## Tools used
-
 ## Certificate
 
 Click the image for verification.
