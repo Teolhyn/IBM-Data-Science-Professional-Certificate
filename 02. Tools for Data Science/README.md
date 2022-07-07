@@ -7,8 +7,6 @@
 * Create and manage source code for data science in GitHub.
 * Explain how IBM Watson Studio and other IBM data science tools can be used by data scientists.
 
-## Tools used
-
 ## Certificate
 
 Click the image for verification.
