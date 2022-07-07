@@ -7,8 +7,6 @@
 * Describe Data Structures in Python including Lists, Tuples, Dictionaries, Sets.
 * Work with data in Python using Pandas and Numpy libraries.
 
-## Tools used
-
 ## Certificate
 
 Click the image for verification.
