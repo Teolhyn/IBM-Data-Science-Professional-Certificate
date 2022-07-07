@@ -11,7 +11,7 @@
 
 4. [Python for Data Science, AI & Development](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development) ✔️
 
-5. [Python Project for Data Science](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/05.%20Python%20Project%20for%20Data%20Science) ❌
+5. [Python Project for Data Science](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/05.%20Python%20Project%20for%20Data%20Science) ✔️
 
 6. [Databases and SQL for Data Science with Python](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python) ❌
 
