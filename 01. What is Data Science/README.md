@@ -7,8 +7,6 @@
 * Summarize  advice given by seasoned data science professionals to data scientists who are just starting out. 
 * Explain why data science is considered the most in-demand job in the 21st century. 
 
-## Tools used
-
 ## Certificate
 
 Click the image for verification.
