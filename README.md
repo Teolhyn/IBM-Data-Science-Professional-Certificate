@@ -15,7 +15,7 @@
 
 6. [Databases and SQL for Data Science with Python](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python) ✔️
 
-7. [Data Analysis with Python](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python) ❌
+7. [Data Analysis with Python](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python) ✔️
 
 8. [Data Visualization with Python](https://github.com/Teolhyn/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python) ❌
 
